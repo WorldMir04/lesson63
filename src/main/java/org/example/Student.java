@@ -1,2 +1,7 @@
-package org.example;public class Student {
+package org.example;
+
+public class Student {
+private String name ;
+private String surname ;
+
 }
